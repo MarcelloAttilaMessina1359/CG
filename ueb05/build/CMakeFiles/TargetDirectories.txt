@@ -1,0 +1,3 @@
+/home/marcello/Uni/cg1_12/ueb05/build/CMakeFiles/rebuild_cache.dir
+/home/marcello/Uni/cg1_12/ueb05/build/CMakeFiles/Ueb05.dir
+/home/marcello/Uni/cg1_12/ueb05/build/CMakeFiles/edit_cache.dir

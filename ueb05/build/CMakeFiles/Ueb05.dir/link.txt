@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wno-long-long -Werror  -rdynamic CMakeFiles/Ueb05.dir/src/debugGL.c.o CMakeFiles/Ueb05.dir/src/shader.c.o CMakeFiles/Ueb05.dir/src/utility.c.o  -o Ueb05 -ldl /usr/lib/x86_64-linux-gnu/libGL.so -lm -lglut /usr/lib/x86_64-linux-gnu/libGLEW.so -lGLU 

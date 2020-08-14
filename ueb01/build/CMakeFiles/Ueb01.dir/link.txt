@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wno-long-long -Werror  -rdynamic CMakeFiles/Ueb01.dir/src/debugGL.c.o CMakeFiles/Ueb01.dir/src/io.c.o CMakeFiles/Ueb01.dir/src/logic.c.o CMakeFiles/Ueb01.dir/src/main.c.o CMakeFiles/Ueb01.dir/src/scene.c.o  -o Ueb01 -ldl /usr/lib/x86_64-linux-gnu/libGL.so -lm -lglut -lGLU 

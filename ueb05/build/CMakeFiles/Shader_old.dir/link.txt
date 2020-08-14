@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wno-long-long -Werror  -rdynamic CMakeFiles/Shader_old.dir/src/debugGL.c.o CMakeFiles/Shader_old.dir/src/shader.c.o CMakeFiles/Shader_old.dir/src/utility.c.o  -o Shader_old -ldl /usr/lib/x86_64-linux-gnu/libGL.so -lm -lglut /usr/lib/x86_64-linux-gnu/libGLEW.so -lGLU 
